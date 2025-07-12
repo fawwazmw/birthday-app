@@ -23,7 +23,7 @@ export default defineNuxtConfig({
       head: {
           title: 'Happy Birthday! 🎉',
           meta: [
-              { name: 'description', content: 'Website ulang tahun yang minimalis dan modern' },
+              { name: 'description', content: 'Website Birthday For Nawang' },
               { name: 'viewport', content: 'width=device-width, initial-scale=1' }
           ],
           link: [
