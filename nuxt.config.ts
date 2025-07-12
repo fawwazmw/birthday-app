@@ -39,5 +39,8 @@ export default defineNuxtConfig({
           birthdayDate: '2025-07-12',
           birthdayPerson: 'Nawang'
       }
-  }
+  },
+    experimental: {
+      oxcParser: false
+    }
 })
