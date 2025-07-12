@@ -13,8 +13,8 @@
 useSeoMeta({
   title: 'Happy Birthday! 🎉',
   ogTitle: 'Happy Birthday 🎉',
-  description: 'Website ulang tahun yang minimalis dan modern',
-  ogDescription: 'Website ulang tahun yang minimalis dan modern',
+  description: 'Website Birthday For Nawang',
+  ogDescription: 'Website Birthday For Nawang',
   ogImage: 'images/og-birthday.jpg',
   twitterCard: 'summary_large_image'
 })
