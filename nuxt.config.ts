@@ -40,7 +40,4 @@ export default defineNuxtConfig({
           birthdayPerson: 'Nawang'
       }
   },
-    experimental: {
-      oxcParser: false
-    }
 })
